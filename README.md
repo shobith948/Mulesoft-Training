@@ -10,3 +10,15 @@ https://anypoint.mulesoft.com/exchange/25c118bf-d1d5-42dc-9a2d-bea67817d1eb/amer
 
 ## MOD 6
 https://github.com/shobith948/Mulesoft-Training.git
+
+## MOD 7
+https://drive.google.com/file/d/1xYO_7R82yHji4lbwMSMy07ZmRI3DXlKl/view?usp=sharing
+
+## MOD 8
+https://drive.google.com/file/d/162m7T6uRIGAPcnMIURXD9uQaZ5rOqyaH/view?usp=sharing
+
+## MOD 9
+https://drive.google.com/file/d/1aW4AJaVCyNrpPnMlLAbqlR8Ofrl0H_Wi/view?usp=sharing
+
+## MOD 10
+https://drive.google.com/file/d/1aW4AJaVCyNrpPnMlLAbqlR8Ofrl0H_Wi/view?usp=sharing
